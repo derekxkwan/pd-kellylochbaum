@@ -1,10 +1,10 @@
 PD-KELLYLOCHBAUM
 ===========================
-Ported KellyLochbaumFilterOld.java (from the Java Audio Synthesis System v1.25 http://persianney.com/kvdoelcsubc/jass/) as [kellylochbaum~]
+Ported KellyLochbaumFilterOld.java (from the Java Audio Synthesis System v1.25 by Kees van den Doel http://persianney.com/kvdoelcsubc/jass/) as [kellylochbaum~]
 
 Might be some errors with my porting because it doesn't sound great so WIP.
 
-(not sure of the original's license, the JASS website states freely available for non-commercial use so for now this is GPL v3)
+(not sure of the original's license, the JASS website states freely available for non-commercial use so for now this is CC BY NC-4.0)
 
 HOW TO INSTALL:
 	- make sure you have the pure-data source installed (can be found at github.com/pure-data/pure-data )
